@@ -4,7 +4,7 @@ title:  "Relay-based Social Nostr app design"
 date:   2023-01-25 21:19:00 -0300
 categories: design
 author: FNF
-value: 0.05
+value: 0.06
 currency: BTC
 contact: nostr:nprofile1qqsrhuxx8l9ex335q7he0f09aej04zpazpl0ne2cgukyawd24mayt8gpr4mhxue69uhkummnw3ez6ur4vgh8wetvd3hhyer9wghxuet5qyw8wumn8ghj7mn0wd68yttjv4kxz7fww4h8get5dpezumt9qy38wumn8ghj7mn0wd68yttkv4exjenfv4jzuam9d3kx7unyv4ezumn9wslzm9ln
 status: New
@@ -39,3 +39,8 @@ that could be interesting for users to be able to do when interacting with Nostr
 If we can make such that this kind of interaction is not restricted to nerds in a hidden
 "advanced setting" but is indeed an integral part of Nostr apps I think it has a a chance
 of working.
+
+---
+
+fiatjaf: 0.05 BTC
+nvk: 0.01
