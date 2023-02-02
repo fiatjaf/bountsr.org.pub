@@ -6,7 +6,7 @@ categories: code
 author: nvk
 value: 0.01
 currency: BTC
-contact: nostr:npub1az9xj85cmxv8e9j9y80lvqp97crsqdu2fpu3srwthd99qfu9qsgstam8y8
+contact: https://brb.io/u/e88a691e98d9987c964521dff60025f60700378a4879180dcbbb4a5027850411
 status: New
 ---
 
