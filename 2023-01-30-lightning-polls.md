@@ -6,7 +6,7 @@ categories: widget
 author: StackSatsIO
 value: 0.11
 currency: BTC
-contact: nostr:npub10jnx6stxk9h4fgtgdqv3hgwx8p4fwe3y73357wykmxm8gz3c3j3sjlvcrd
+contact: https://brb.io/u/7ca66d4166b16f54a16868191ba1c6386a976624f4634f3896d9b6740a388ca3 
 status: New
 ---
 

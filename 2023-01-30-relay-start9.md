@@ -6,7 +6,7 @@ categories: code
 author: arkinox
 value: 0.00500000
 currency: BTC
-contact: nostr:npub1arkn0xxxll4llgy9qxkrncn3vc4l69s0dz8ef3zadykcwe7ax3dqrrh43w
+contact: https://brb.io/u/e8ed3798c6ffebffa08501ac39e271662bfd160f688f94c45d692d8767dd345a
 status: New
 ---
 
