@@ -23,6 +23,7 @@ The idea is to implement this model (or a variant of it) for keeping track of re
  - Snort
  - Iris
  - Coracle
+ - Plasma
 
 For other clients please ask first.
 
@@ -47,6 +48,10 @@ Slightly related (but ignorable): https://fiatjaf.com/3f106d31.html
 ---
 
 The bounty can be increased depending on the implementation.
+
+Multiple payouts of this same bounty can be made if it is implemented in multiple apps.
+
+If you want to add more apps to the list above please open a PR in this repo and tag me.
 
 ---
 
